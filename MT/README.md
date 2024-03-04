@@ -31,14 +31,14 @@ The core idea of these systems is to evaluate how effective synthetic data based
 
 ## Rule-based MT
 ### Preprocessing
-Preprocessing refers to a task where a sentence written in a variety of Central Kurdish is *synthetically* transformed to look like one in Standard Central Kurdish. This process is implemented in [translate\_to\_standard.py](translate_to_standard.py).
+Preprocessing refers to the task where a sentence written in a variety of Central Kurdish is *synthetically* transformed to look like one in Standard Central Kurdish. This process is implemented in [translate\_to\_standard.py](translate_to_standard.py).
 
 <p align="center">
   <img src="preprocessing.png" alt="preprocessing.png">
 </p>
 
 ### Postprocessing
-Postprocessing refers to a task where a sentence written in Standard Central Kurdish is *synthetically* transformed to look like one written in a Central Kurdish variety. This process is implemented in [translate\_from\_standard.py](translate_to_standard.py).
+Postprocessing refers to the task where a sentence written in Standard Central Kurdish is *synthetically* transformed to look like one written in a Central Kurdish variety. This process is implemented in [translate\_from\_standard.py](translate_from_standard.py).
 
 <p align="center">
   <img src="postprocessing.png" alt="postpeocessing.png">

@@ -2,7 +2,7 @@
 
 Language identification (LID) is the task of identifying the language in which a text is written. In our paper, we focus on the identification of dialects in CORDI. 
 
-We provide the [CKB\_dialects\_model.ftz](CKB_dialects_model.ftz) model for dialect identification. This model is trained on CORDI data using `fastText`. You can run the model in Python or on command-line by installing the `fastText`library as described at [https://fasttext.cc/docs/en/support.html](https://fasttext.cc/docs/en/support.html) as follows:
+We provide the [CKB\_dialects\_model.ftz](CKB_dialects_model.ftz) model for dialect identification. This model is trained on CORDI data using `fastText`. You can run the model in Python or on command-line by installing the `fastText` library as described at [https://fasttext.cc/docs/en/support.html](https://fasttext.cc/docs/en/support.html) as follows:
 
 ```python
 >>> import fasttext
