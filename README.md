@@ -30,37 +30,34 @@ More details can be found in the paper:
 **Sulaymaniyah:**
 
 - Sentence (Female): "ئا دە بەو خوایە هەبێ و نەبێ ئەمە بە دایکی مناڵەکان ئەڵێی شەریکی حەیاتم"
+https://github.com/sinaahmadi/CORDI/assets/12765529/d77097e2-9ccc-45e9-85e8-bcda7961a9aa
 
-https://github.com/sinaahmadi/CORDI/raw/main/samples/Suli_F.mp4
-
-<!-- <html>
-   <body>
-    <audio controls autoplay>
-        <source src="https://github.com/sinaahmadi/CORDI/raw/main/samples/Suli_F.ogg" type="audio/ogg" />
-        <source src="https://github.com/sinaahmadi/CORDI/raw/main/samples/Suli_F.mp3" type="audio/mpeg" />
-        Your browser does not support the <audio> element.
-    </audio>
-   </body>
-</html>
- -->
-
-- Sentence (Male): "نازانی ئەترسن، ئەی نەھ بیستوە ئەڵێ ماران گەستە لە گوریسیش ئەترسێ"
+- Sentence (Male): "نازانی ئەترسن، ئەی نەو بیستوە ئەڵێ ماران گەستە لە گوریسیش ئەترسێ"
+https://github.com/sinaahmadi/CORDI/assets/12765529/a67b0ffe-9bd2-411a-ad01-8afca3720686
 
 **Erbil:**
 
 - Sentence (Female): "تێگەیشتی بەڵام لەو قازانجەی دەستان دەکەوێ نیوەکی ئی منە"
+https://github.com/sinaahmadi/CORDI/assets/12765529/139d14e3-9a5e-474c-a6e4-189e7d204ef6
+
 - Sentence (Male): "پێی برێن ئەگەر ڕای لێ نییە با بڕواتە مەنتیقەکی دیکە تەلەفۆن بکات موشتەریم زۆرە"
+https://github.com/sinaahmadi/CORDI/assets/12765529/9ec4b544-fc65-477c-a1fd-ebd6308b7d8d
 
 **Sanandaj:**
 
 - Sentence (Female): "بنیام لە بەر ئەو ئاپارتمانە ئەوێسێ، سوح تا ئێوارە تماشای بکا، تێری لێ ناخوا"
+https://github.com/sinaahmadi/CORDI/assets/12765529/50491f95-c5b6-4a42-b419-3a51f8722bcf
+
 - Sentence (Male): "دەی مەیه خوەیشکه کی وتییه بییه کەنیشک ئایت بە شوو، بییه بە کەسێ تێر"
+https://github.com/sinaahmadi/CORDI/assets/12765529/43a514f2-0984-440a-9988-597df2f3eb49
 
 **Mahabad:**
 
 - Sentence (Female): "حا، خەجیج خانم گیان بە قوربانت بم ئەتووش نفووسی خراپ لێ مەدە مە"
-- Sentence (Male): "بۆ لەبەر چی ئەرێ ئەمن نازانم ئەو قەدەرەی بۆ هەموو لە من قەلسن بۆ لە من ناڕەحەتن"
+https://github.com/sinaahmadi/CORDI/assets/12765529/2f8440b0-ea38-498f-963e-13f5f01dcfb0
 
+- Sentence (Male): "بۆ لەبەر چی ئەرێ ئەمن نازانم ئەو قەدەرەی بۆ هەموو لە من قەلسن بۆ لە من ناڕەحەتن"
+https://github.com/sinaahmadi/CORDI/assets/12765529/2051e772-89b2-4b3f-b242-b5ef68c01ed7
 
 
 ## Structure
