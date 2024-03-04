@@ -1,11 +1,11 @@
-# CORDI -- Corpus of Dialogues in Central Kurdish
+# CORDI — Corpus of Dialogues in Central Kurdish
 
 <p align="center">
   <img src="CORDI.jpeg" alt="CORDI">
 </p>
 
 
-This repository provides resources for language and speech technology for Central Kurdish varieties discussed in our [LREC-COLING 2024 paper](https://sinaahmadi.github.io/docs/articles/ahmadi2024cordi.pdf), particularly the first annotated corpus of spoken Central Kurdish varieties -- CORDI. Given the financial burden of traditional ways of documenting languages and varieties as in fieldwork, we follow a rather novel alternative where movies and series are transcribed. Based on the cities where the content are produced, we categorize the material with the following city names:
+This repository provides resources for language and speech technology for Central Kurdish varieties discussed in our [LREC-COLING 2024 paper](https://sinaahmadi.github.io/docs/articles/ahmadi2024cordi.pdf), particularly the first annotated corpus of spoken Central Kurdish varieties — CORDI. Given the financial burden of traditional ways of documenting languages and varieties as in fieldwork, we follow a rather novel alternative where movies and series are transcribed. Based on the cities where the content are produced, we categorize the material with the following city names:
 
 - Sulaymaniyah. Traditionally, the variety spoken in this region is referred to as Babani (بابانی)
 - Sanandaj. Traditionally, the variety spoken in this region is referred to as Ardalani (ئەردەڵانی).
