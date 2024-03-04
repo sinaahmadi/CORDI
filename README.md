@@ -31,10 +31,11 @@ More details can be found in the paper:
 
 - Sentence (Female): "ئا دە بەو خوایە هەبێ و نەبێ ئەمە بە دایکی مناڵەکان ئەڵێی شەریکی حەیاتم"
 
-<video controls="" autoplay="" name="media">
+<audio controls autoplay>
     <source src="https://github.com/sinaahmadi/CORDI/raw/main/samples/Suli_F.ogg" type="audio/ogg">
-    <source src="https://github.com/sinaahmadi/CORDI/raw/main/samples/Suli_F.mp4" type="audio/mpeg">
-</video>
+    <source src="https://github.com/sinaahmadi/CORDI/raw/main/samples/Suli_F.mp3" type="audio/mpeg">
+</audio>
+
 
 
 - Sentence (Male): "نازانی ئەترسن، ئەی نەھ بیستوە ئەڵێ ماران گەستە لە گوریسیش ئەترسێ"
