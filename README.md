@@ -7,9 +7,9 @@
 
 This repository provides resources for language and speech technology for Central Kurdish varieties discussed in our [LREC-COLING 2024 paper](https://sinaahmadi.github.io/docs/articles/ahmadi2024cordi.pdf), particularly the first annotated corpus of spoken Central Kurdish varieties -- CORDI. Given the financial burden of traditional ways of documenting languages and varieties as in fieldwork, we follow a rather novel alternative where movies and series are transcribed. Based on the cities where the content are produced, we categorize the material with the following city names:
 
-- Sulaymaniyah. Traditionally, the variety spoken in this region is referred to as Babani (‘بابانی’)
-- Sanandaj. Traditionally, the variety spoken in this region is referred to as Ardalani (‘ئەردەڵانی’).
-- Mahabad where the Mukriyani (‘موکریانی’) or Mukri variety is spoken
+- Sulaymaniyah. Traditionally, the variety spoken in this region is referred to as Babani (بابانی)
+- Sanandaj. Traditionally, the variety spoken in this region is referred to as Ardalani (ئەردەڵانی).
+- Mahabad where the Mukriyani (موکریانی) or Mukri variety is spoken
 - Erbil or Hewlêr (هەولێر)
 - Sardasht (سەردەشت)
 - Kalar (کەلار)
@@ -31,12 +31,15 @@ More details can be found in the paper:
 
 - Sentence (Female): "ئا دە بەو خوایە هەبێ و نەبێ ئەمە بە دایکی مناڵەکان ئەڵێی شەریکی حەیاتم"
 
-<audio controls autoplay>
-    <source src="https://github.com/sinaahmadi/CORDI/raw/main/samples/Suli_F.ogg" type="audio/ogg">
-    <source src="https://github.com/sinaahmadi/CORDI/raw/main/samples/Suli_F.mp3" type="audio/mpeg">
-</audio>
-
-
+<html>
+   <body>
+    <audio controls autoplay>
+        <source src="https://github.com/sinaahmadi/CORDI/raw/main/samples/Suli_F.ogg" type="audio/ogg" />
+        <source src="https://github.com/sinaahmadi/CORDI/raw/main/samples/Suli_F.mp3" type="audio/mpeg" />
+        Your browser does not support the <audio> element.
+    </audio>
+   </body>
+</html>
 
 - Sentence (Male): "نازانی ئەترسن، ئەی نەھ بیستوە ئەڵێ ماران گەستە لە گوریسیش ئەترسێ"
 
