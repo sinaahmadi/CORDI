@@ -31,7 +31,9 @@ More details can be found in the paper:
 
 - Sentence (Female): "ئا دە بەو خوایە هەبێ و نەبێ ئەمە بە دایکی مناڵەکان ئەڵێی شەریکی حەیاتم"
 
-<html>
+https://github.com/sinaahmadi/CORDI/raw/main/samples/Suli_F.mp4
+
+<!-- <html>
    <body>
     <audio controls autoplay>
         <source src="https://github.com/sinaahmadi/CORDI/raw/main/samples/Suli_F.ogg" type="audio/ogg" />
@@ -40,6 +42,7 @@ More details can be found in the paper:
     </audio>
    </body>
 </html>
+ -->
 
 - Sentence (Male): "نازانی ئەترسن، ئەی نەھ بیستوە ئەڵێ ماران گەستە لە گوریسیش ئەترسێ"
 
