@@ -49,11 +49,11 @@ https://github.com/sinaahmadi/CORDI/assets/12765529/9ec4b544-fc65-477c-a1fd-ebd6
 
 **Sanandaj:**
 
-- Sentence (Female): "بنیام لە بەر ئەو ئاپارتمانە ئەوێسێ، سوح تا ئێوارە تماشای بکا، تێری لێ ناخوا"
+- Sentence (Female): "دەی مەیه خوەیشکه کی وتییه بییه کەنیشک ئایت بە شوو، بییه بە کەسێ تێر"
 
 https://github.com/sinaahmadi/CORDI/assets/12765529/50491f95-c5b6-4a42-b419-3a51f8722bcf
 
-- Sentence (Male): "دەی مەیه خوەیشکه کی وتییه بییه کەنیشک ئایت بە شوو، بییه بە کەسێ تێر"
+- Sentence (Male): "بنیام لە بەر ئەو ئاپارتمانە ئەوێسێ، سوح تا ئێوارە تماشای بکا، تێری لێ ناخوا"
 
 https://github.com/sinaahmadi/CORDI/assets/12765529/43a514f2-0984-440a-9988-597df2f3eb49
 
