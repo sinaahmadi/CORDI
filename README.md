@@ -26,8 +26,10 @@ More details can be found in the paper:
 
 ## Samples
 
+Here are a few samples from CORDI (turn audio on to play):
 
-**Sulaymaniyah:**
+
+### Sulaymaniyah:
 
 - Sentence (Female): "ئا دە بەو خوایە هەبێ و نەبێ ئەمە بە دایکی مناڵەکان ئەڵێی شەریکی حەیاتم"
 
@@ -37,7 +39,7 @@ https://github.com/sinaahmadi/CORDI/assets/12765529/d77097e2-9ccc-45e9-85e8-bcda
 
 https://github.com/sinaahmadi/CORDI/assets/12765529/a67b0ffe-9bd2-411a-ad01-8afca3720686
 
-**Erbil:**
+### Erbil:
 
 - Sentence (Female): "تێگەیشتی بەڵام لەو قازانجەی دەستان دەکەوێ نیوەکی ئی منە"
 
@@ -47,7 +49,7 @@ https://github.com/sinaahmadi/CORDI/assets/12765529/139d14e3-9a5e-474c-a6e4-189e
 
 https://github.com/sinaahmadi/CORDI/assets/12765529/9ec4b544-fc65-477c-a1fd-ebd6308b7d8d
 
-**Sanandaj:**
+### Sanandaj:
 
 - Sentence (Female): "دەی مەیه خوەیشکه کی وتییه بییه کەنیشک ئایت بە شوو، بییه بە کەسێ تێر"
 
@@ -57,7 +59,7 @@ https://github.com/sinaahmadi/CORDI/assets/12765529/50491f95-c5b6-4a42-b419-3a51
 
 https://github.com/sinaahmadi/CORDI/assets/12765529/43a514f2-0984-440a-9988-597df2f3eb49
 
-**Mahabad:**
+### Mahabad:
 
 - Sentence (Female): "حا، خەجیج خانم گیان بە قوربانت بم ئەتووش نفووسی خراپ لێ مەدە مە"
 
