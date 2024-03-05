@@ -51,7 +51,7 @@ https://github.com/sinaahmadi/CORDI/assets/12765529/9ec4b544-fc65-477c-a1fd-ebd6
 
 ### Sanandaj:
 
-- Sentence (Female): "دەی مەیه خوەیشکه کی وتییه بییه کەنیشک ئایت بە شوو، بییه بە کەسێ تێر"
+- Sentence (Female): "دەی مەیه خوەیشکه کی وتییه بییه کەنیشک ئایت بە شوو، بییه بە کەسێ تر"
 
 https://github.com/sinaahmadi/CORDI/assets/12765529/50491f95-c5b6-4a42-b419-3a51f8722bcf
 
@@ -65,7 +65,7 @@ https://github.com/sinaahmadi/CORDI/assets/12765529/43a514f2-0984-440a-9988-597d
 
 https://github.com/sinaahmadi/CORDI/assets/12765529/2f8440b0-ea38-498f-963e-13f5f01dcfb0
 
-- Sentence (Male): "بۆ لەبەر چی ئەرێ ئەمن نازانم ئەو قەدەرەی بۆ هەموو لە من قەلسن بۆ لە من ناڕەحەتن"
+- Sentence (Male): "بۆ لەبەر چی ئەرێ ئەمن نازانم بۆ ئەو قەدەرەی هەموو لە من قەڵسن بۆ لە من ناڕەحەتن"
 
 https://github.com/sinaahmadi/CORDI/assets/12765529/2051e772-89b2-4b3f-b242-b5ef68c01ed7
 
